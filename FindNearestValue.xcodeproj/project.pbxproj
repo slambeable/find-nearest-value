@@ -11,6 +11,7 @@
 		6D622D5127E66E4F00532103 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D622D5027E66E4F00532103 /* ContentView.swift */; };
 		6D622D5327E66E5000532103 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D622D5227E66E5000532103 /* Assets.xcassets */; };
 		6D622D5627E66E5000532103 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D622D5527E66E5000532103 /* Preview Assets.xcassets */; };
+		6D8DF63127E8DA94004A17B5 /* UIKitSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D8DF63027E8DA94004A17B5 /* UIKitSlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6D622D5027E66E4F00532103 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6D622D5227E66E5000532103 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6D622D5527E66E5000532103 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6D8DF63027E8DA94004A17B5 /* UIKitSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitSlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				6D622D5027E66E4F00532103 /* ContentView.swift */,
 				6D622D5227E66E5000532103 /* Assets.xcassets */,
 				6D622D5427E66E5000532103 /* Preview Content */,
+				6D8DF63027E8DA94004A17B5 /* UIKitSlider.swift */,
 			);
 			path = FindNearestValue;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D8DF63127E8DA94004A17B5 /* UIKitSlider.swift in Sources */,
 				6D622D5127E66E4F00532103 /* ContentView.swift in Sources */,
 				6D622D4F27E66E4F00532103 /* FindNearestValueApp.swift in Sources */,
 			);
